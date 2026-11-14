@@ -6,7 +6,7 @@
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза ekspozicii: мастерская АР-ДЕКО, кузня ПОЛИМАТ, раунд 11" />
+  <img src="repo-muse.svg" width="100%" alt="Муза ekspozicii: мастерская АР-ДЕКО, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
   <img src="forge-divider.svg" width="62%" alt="делитель мастерской АР-ДЕКО" />
 </div>
