@@ -50,6 +50,40 @@
 - Онлайн-версия тома: https://rtynbirf.github.io/ekspozicii/
 - Лицензия тома — MIT ([LICENSE](LICENSE)); у каждой главы — лицензия её оригинала.
 
+## Лица глав
+
+### [yazyk-skvoz-epohi](glavy/yazyk-skvoz-epohi/)
+
+Язык сквозь эпохи · Дом-Автомат v21 — семиэпохальное эссе.
+
+![yazyk-skvoz-epohi](previews/yazyk-skvoz-epohi.png)
+
+Онлайн-версия оригинала: https://rtynbirf.github.io/yazyk-skvoz-epohi/
+
+### [web-evolution-1991-2026](glavy/web-evolution-1991-2026/)
+
+Эволюция Веба 1991→2026 — 5 эпох, таймлайн.
+
+![web-evolution-1991-2026](previews/web-evolution-1991-2026.png)
+
+### [windows-chronicle](glavy/windows-chronicle/)
+
+Полная хроника Microsoft Windows 1985–2026.
+
+![windows-chronicle](previews/windows-chronicle.png)
+
+### [linguistic-code](glavy/linguistic-code/)
+
+Философский артефакт о языке, теле и опыте.
+
+![linguistic-code](previews/linguistic-code.png)
+
+### [polymath-tools-atlas](glavy/polymath-tools-atlas/)
+
+Атлас инструментов ПОЛИМАТ — финальная витрина.
+
+![polymath-tools-atlas](previews/polymath-tools-atlas.png)
+
 <!--ФОРЖ:ПОДВАЛ-->
 ---
 
