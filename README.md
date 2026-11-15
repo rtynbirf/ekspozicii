@@ -84,6 +84,10 @@
 
 ![polymath-tools-atlas](previews/polymath-tools-atlas.png)
 
+### [global-video-platforms-registry](glavy/global-video-platforms-registry/)
+
+Верифицированный реестр 1071 видеоплатформы (1032 активных) — окт 2026. CSV/JSON/XLSX/PDF + методология + evidence. Витрина и онлайн-версия у этой главы не строились — глава живёт в книге и в архивном оригинале.
+
 <!--ФОРЖ:ПОДВАЛ-->
 ---
 
