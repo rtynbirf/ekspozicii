@@ -2,7 +2,7 @@
  "hologram": 1,
  "root": "c223bd4a2f6a56783c1fbdb1b1f671fa61c3150ecf320c82796ea5763043a696",
  "n": 73,
- "storage": 68,
+ "storage": 36,
  "r": 3,
  "self": {
   "name": "ekspozicii",
@@ -305,6 +305,30 @@
   }
  ],
  "flesh": [
+  {
+   "name": "domovoy-ritual",
+   "desc": "Ритуал дома как конечный автомат: поработал → сделал → убрал за собой. S0-покой гарантирован. FSM: устав + исполняемый автомат (stdlib-only).",
+   "lang": "Python",
+   "cluster": "SWARM"
+  },
+  {
+   "name": "global-video-platforms-registry",
+   "desc": "Верифицированный реестр 1071 видеоплатформ (1032 активных) — окт 2026. CSV/JSON/XLSX/PDF + методология + evidence",
+   "lang": "Python",
+   "cluster": "ATLASES"
+  },
+  {
+   "name": "kb",
+   "desc": "Знания дома: канон-тексты, гайды, досье — место по канону §4",
+   "lang": "",
+   "cluster": ""
+  },
+  {
+   "name": "rumu",
+   "desc": "⚡ СИНГУЛЯР РУМУ — Sovereign BL/GL Streaming. P2P+autopilot, NO corporate. 249 тайтлов. Держатель имени; код — веткой rumu в singulyar. (Восстановлен Полиматом из пломбы polimat-vault 2026-11-08)",
+   "lang": "Python",
+   "cluster": "SINGULAR"
+  },
   {
    "name": "singulyar-a0-audit",
    "desc": "SINGULYAR × A0 — independent audit (PACKAGE VALID + BRIDGE VALID) and R4 port design",
