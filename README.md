@@ -1,14 +1,14 @@
 # КНИГА ЭКСПОЗИЦИЙ
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Штандарт ekspozicii: обсидиан и расплавленное золото, кузня rtynbirf" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/banner.png" width="100%" alt="Штандарт ekspozicii: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза ekspozicii: мастерская АР-ДЕКО, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/repo-muse.svg" width="100%" alt="Муза ekspozicii: мастерская АР-ДЕКО, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской АР-ДЕКО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/forge-divider.svg" width="62%" alt="делитель мастерской АР-ДЕКО" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
