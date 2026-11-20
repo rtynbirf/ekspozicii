@@ -39,12 +39,12 @@
 
 | Глава | Источник | Файлов | Коммитов в ориг. | Снимок |
 |---|---|---|---|---|
-| [yazyk-skvoz-epohi](glavy/yazyk-skvoz-epohi/) | [оригинал](https://github.com/rtynbirf/yazyk-skvoz-epohi) | 38 | 41 | `a58a4a6` |
-| [web-evolution-1991-2026](glavy/web-evolution-1991-2026/) | [оригинал](https://github.com/rtynbirf/web-evolution-1991-2026) | 38 | 24 | `f94a654` |
-| [windows-chronicle](glavy/windows-chronicle/) | [оригинал](https://github.com/rtynbirf/windows-chronicle) | 89 | 52 | `c3dedc4` |
-| [linguistic-code](glavy/linguistic-code/) | [оригинал](https://github.com/rtynbirf/linguistic-code) | 14 | 4 | `2905744` |
-| [polymath-tools-atlas](glavy/polymath-tools-atlas/) | [оригинал](https://github.com/rtynbirf/polymath-tools-atlas) | 55 | 42 | `b594a29` |
-| [global-video-platforms-registry](glavy/global-video-platforms-registry/) | [оригинал](https://github.com/rtynbirf/global-video-platforms-registry) | 64 | 44 | `5fdffdb` |
+| [yazyk-skvoz-epohi](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/yazyk-skvoz-epohi) | [оригинал](https://github.com/rtynbirf/yazyk-skvoz-epohi) | 38 | 41 | `a58a4a6` |
+| [web-evolution-1991-2026](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/web-evolution-1991-2026) | [оригинал](https://github.com/rtynbirf/web-evolution-1991-2026) | 38 | 24 | `f94a654` |
+| [windows-chronicle](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/windows-chronicle) | [оригинал](https://github.com/rtynbirf/windows-chronicle) | 89 | 52 | `c3dedc4` |
+| [linguistic-code](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/linguistic-code) | [оригинал](https://github.com/rtynbirf/linguistic-code) | 14 | 4 | `2905744` |
+| [polymath-tools-atlas](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/polymath-tools-atlas) | [оригинал](https://github.com/rtynbirf/polymath-tools-atlas) | 55 | 42 | `b594a29` |
+| [global-video-platforms-registry](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/global-video-platforms-registry) | [оригинал](https://github.com/rtynbirf/global-video-platforms-registry) | 64 | 44 | `5fdffdb` |
 
 ## О чём эта книга
 
