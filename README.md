@@ -68,7 +68,7 @@
 
 ## Лица глав
 
-### [yazyk-skvoz-epohi](glavy/yazyk-skvoz-epohi/)
+### [yazyk-skvoz-epohi](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/yazyk-skvoz-epohi)
 
 Язык сквозь эпохи · Дом-Автомат v21 — семиэпохальное эссе.
 
@@ -76,31 +76,31 @@
 
 Онлайн-версия оригинала: https://rtynbirf.github.io/yazyk-skvoz-epohi/
 
-### [web-evolution-1991-2026](glavy/web-evolution-1991-2026/)
+### [web-evolution-1991-2026](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/web-evolution-1991-2026)
 
 Эволюция Веба 1991→2026 — 5 эпох, таймлайн.
 
 ![web-evolution-1991-2026](previews/web-evolution-1991-2026.png)
 
-### [windows-chronicle](glavy/windows-chronicle/)
+### [windows-chronicle](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/windows-chronicle)
 
 Полная хроника Microsoft Windows 1985–2026.
 
 ![windows-chronicle](previews/windows-chronicle.png)
 
-### [linguistic-code](glavy/linguistic-code/)
+### [linguistic-code](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/linguistic-code)
 
 Философский артефакт о языке, теле и опыте.
 
 ![linguistic-code](previews/linguistic-code.png)
 
-### [polymath-tools-atlas](glavy/polymath-tools-atlas/)
+### [polymath-tools-atlas](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/polymath-tools-atlas)
 
 Атлас инструментов ПОЛИМАТ — финальная витрина.
 
 ![polymath-tools-atlas](previews/polymath-tools-atlas.png)
 
-### [global-video-platforms-registry](glavy/global-video-platforms-registry/)
+### [global-video-platforms-registry](https://github.com/rtynbirf/ekspozicii/tree/main/glavy/global-video-platforms-registry)
 
 Верифицированный реестр 1071 видеоплатформы (1032 активных) — окт 2026. CSV/JSON/XLSX/PDF + методология + evidence. Витрина и онлайн-версия у этой главы не строились — глава живёт в книге и в архивном оригинале.
 
