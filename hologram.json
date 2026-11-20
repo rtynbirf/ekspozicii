@@ -1,7 +1,7 @@
 {
  "hologram": 1,
- "root": "4bcb8a068871f9158f688c6941bf4b381477a19c0c45283c73811c92000edb94",
- "n": 79,
+ "root": "452ffac5497ab42866b71238d0463cb352480ecd5422ba3a985418c1250f5179",
+ "n": 80,
  "storage": 74,
  "r": 3,
  "self": {
@@ -122,6 +122,10 @@
   {
    "name": "index",
    "hash": "10fe1d26ed92e1d2ae38c8bea3cb33af6dcebc6f0688e2361a0b5276af79b50d"
+  },
+  {
+   "name": "inv-automat",
+   "hash": "cc4e8609a9cddadc718c76dcbf2cd28e427821c6453b4ca6df50bf99d385aef1"
   },
   {
    "name": "invariant-manifest",
@@ -329,6 +333,12 @@
   }
  ],
  "flesh": [
+  {
+   "name": "rumu",
+   "desc": "⚡ СИНГУЛЯР РУМУ — Sovereign BL/GL Streaming. P2P+autopilot, NO corporate. 249 тайтлов. Держатель имени; код — веткой rumu в singulyar. (Восстановлен Полиматом из пломбы polimat-vault 2026-11-08)",
+   "lang": "Python",
+   "cluster": "SINGULAR"
+  },
   {
    "name": "singulyar-a0-audit",
    "desc": "SINGULYAR × A0 — independent audit (PACKAGE VALID + BRIDGE VALID) and R4 port design",
