@@ -4,12 +4,6 @@
 
 </div>
 
-# КНИГА ЭКСПОЗИЦИЙ
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/banner.png" width="100%" alt="Штандарт ekspozicii: обсидиан и расплавленное золото, кузня rtynbirf" />
-</div>
-
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/repo-muse.svg" width="100%" alt="Муза ekspozicii: мастерская АР-ДЕКО, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
@@ -20,13 +14,33 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы ekspozicii в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы ekspozicii №9 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 344 | 62 | 164 | 2026-11-28 | 0 |
+| 344 | 64 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# ekspozicii
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/.github/social-preview.png" alt="ekspozicii" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/ekspozicii"><img src="banner.png" width="100%" alt="ekspozicii — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+# КНИГА ЭКСПОЗИЦИЙ
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekspozicii@main/banner.png" width="100%" alt="Штандарт ekspozicii: обсидиан и расплавленное золото, кузня rtynbirf" />
+</div>
+
+
+
+
 
 
 
